@@ -1,0 +1,10 @@
+DNS
+Domain Name System
+system store info's about domains in DB in place uncenter on internet
+1- ( Your PC ) : Where is www.example.com ? -> to ISP DNS Server
+2- ( ISP DNS Server ) : it is 66.115.210.3! -> to Your PC
+3 - ( Your PC ) : i will go to 66.115.210.3! -> to Webserver at 66.115.210.3
+4 - (Webserver at 66...) : Here is your web content! (show webpage in your browser)
+Ping
+To Know if device wake up or not
+By your pc send request to server, if server reply it's wake up
