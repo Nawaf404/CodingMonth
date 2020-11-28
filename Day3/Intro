@@ -1,0 +1,9 @@
+Encryption, Decryption
+To kind, 1- Encryption and Decryption
+2- One way, only Encryption and don't Decryption
+from Plain text -> Hash Function -> Encrypt
+the One kind able to recover to plain
+Tool In Kali Linux : echo -m Nawaf | md5sum
+convert it and hashing with md5
+and it's 32 letter only, whatever was count of letter
+password of user windows store in SAM file
